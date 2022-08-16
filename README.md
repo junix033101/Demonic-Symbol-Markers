@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Dmonic Symbol Markers
+A plugin for showing zalcano demonic symbol tile markers
